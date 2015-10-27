@@ -17,4 +17,4 @@ everpolate.polynomial(5, [1, 2, 3, 4], [1, 4, 9, 16])
 // → [25]
 ```
 
-For API reference [to GitHub project page](http://borischumichev.github.io/everpolate/).
+For API reference go [to GitHub project page](http://borischumichev.github.io/everpolate/).
