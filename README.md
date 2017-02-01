@@ -1,5 +1,7 @@
 Meteor wrap package for original [everpolate](https://github.com/BorisChumichev/everpolate). Original tests reimplemented with `tinytest`.
 
+# Hello!
+
 # Installation
 
 ```bash
